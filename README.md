@@ -11,7 +11,7 @@
     - Matthew Okashita | SoupyzInc (https://github.com/SoupyzInc)
 -->
 
-<img src="https://github.com/IrvanWijayaSardam/IrvanWijayaSardam/blob/main/Images/GitHub%20Banner.png" width="200px" alt="Irvan Wijaya | AminiVan">
+<img src="https://github.com/IrvanWijayaSardam/IrvanWijayaSardam/blob/main/Images/GitHub%20Banner.png" height="200px" alt="Irvan Wijaya | AminiVan">
 
 <div align="center">
 <!--START_SECTION:crypto-prices-->
