@@ -11,7 +11,7 @@
     - Matthew Okashita | SoupyzInc (https://github.com/SoupyzInc)
 -->
 
-<img src="https://github.com/SoupyzInc/SoupyzInc/blob/master/Images/GitHub%20Banner.png" alt="Matthew Okashita | SoupyzInc">
+<img src="https://github.com/IrvanWijayaSardam/IrvanWijayaSardam/blob/main/Images/GitHub%20Banner.png" alt="Irvan Wijaya | AminiVan">
 
 <div align="center">
 <!--START_SECTION:crypto-prices-->
@@ -25,58 +25,21 @@
 </p>
 
 <div align="center">
-  <pre><code>System.out.println("Hey, Matthew here!"); // Or in Japanese, 岡下雄太.</code></pre>
+  <pre><code>Sup , I'm Here</code></pre>
 </div>
 
-<p>I'm 17, a freshman in university, and I have a programming and math addiction. I'm planning to pursue a Bachelor's in computer science. I am currently researching about topological data analysis of 📈 time series data.
+<p>I am a developer and crypto enthusiast, 2 years of experience in the programming field, here are some projects that I participate in</p>
 
-<p>🔗 Check out my website at <a href="https://soupyzinc.github.io/">soupyzinc.github.io</a>!<br>
-
-<h2>What am I working on? 🤔</h2>
+<h2>What am I working on? </h2>
 <details>
-<summary><a href="https://github.com/SoupyzInc/NotrealEngine">Notreal™ Engine</a> | C++, OpenGL, GLFW, Graphics Engineering</summary>
-<blockquote>
-  I am creating a hobby graphics engine using OpenGL and GLFW.<br><br>
-  <img width="48%" src="https://github.com/SoupyzInc/NotrealEngine/blob/main/docs/97ad76/coordinates_demo.gif" alt="Many spinning boxes in 3D space with altering textures.">
-</blockquote>
+<summary><a href="https://stride.explorers.guru/validator/stridevaloper1yepfmsp6ylmmk0zy0knlqaev9t0anaw483trmj">Stride Network</a> | CLI, Nodes,Running Validator, Create Transaction,etc</summary>
 </details>
 
-<h2>What have I done? 🎉</h2>
+<h2>Other Project 🎉</h2>
 <details>
-<summary><a href="https://github.com/Derivasians/Calculatte">Calculatte</a> | Calculus Java library</summary>
-<blockquote>
-  A simple Java calculus library. Why? Because I love math <i>and</i> programming! ❤️<br><br>
-  <pre><code>// Integrate f(x) = 2x from 0 to 2.
+<summary><a href="https://sei.explorers.guru/validator/seivaloper1a5qwd5pgut22y8qq0nw6cnu4y04gqkdzzukfuf">Sei Network</a> | CLI,Nodes,Running Validator, Make Explorer</summary>
+</details>
+<details>
+<summary><a href="https://explorer-xnet-triton.point.space/search-results?q=evmos1yavqyhqp8srpqz3sfrcxszundksl2et64u9qls">PointNetwork</a> | WEB3, Blockchain</summary>
+</details>
 
-  import io.github.derivasians.calculatte.*;
-
-  Calculatte c = new Calculatte();
-  Function TwoX = x -> 2 * x;
-
-  double a = c.integrate(0, 2, TwoX);
-  System.out.println(a);</code></pre>
-</blockquote>
-</details>
-<details>
-<summary><a href="https://github.com/SoupyzInc/AreaSoup">AreaSoup</a> | Java, Swing, Calculus</summary>
-<blockquote>
-  A Java Swing app to visualize different integral approximation techniques.<br><br>
-  <img src="https://github.com/SoupyzInc/AreaSoup/blob/main/AreaSoup%20Demo.gif" alt="Demo of AreaSoup">
-</blockquote>
-</details>
-<details>
-<summary><a href="https://github.com/SoupyzInc/KrakenOrigami">KrakenOrigami</a> | Python, MySQL, Kraken REST API, discord.py</summary>
-<blockquote>A Discord bot written in Python to paper trade crypto currencies. It utilizes 
-  <a href="https://github.com/Rapptz/discord.py">discord.py</a> and MySQL to make and store paper trades. 
-  Prices are taken from the <a href="https://docs.kraken.com/rest/">Kraken REST API</a> using 
-  <a href="https://github.com/veox/python3-krakenex">krakenex</a>.<br><br>
-  <img src="https://github.com/SoupyzInc/KrakenOrigami/blob/main/Wiki/Kraken_Showcase.png" alt="KrakenOrigami Demo">
-</blockquote>
-</details>
-<details>
-<summary><a href="https://github.com/SoupyzInc/CanvasDarkMode">CanvasDarkMode</a> | CSS, Stylus</summary>
-<blockquote>An open source Stylus extension to give Canvas a dark mode. Now students can work late at night 
-  without burning their retinas out!<br><br>
-  <img src="https://github.com/SoupyzInc/CanvasDarkMode/blob/main/images/Dashboardv1.1.5.png" alt="CanvasDarkMode Demo">
-</blockquote>
-</details>
