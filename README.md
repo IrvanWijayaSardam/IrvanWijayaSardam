@@ -20,8 +20,8 @@
 </div>
   
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=soupyzinc&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000" alt="SoupyzInc's GitHub Stats"></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SoupyzInc&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="SoupyzInc's GitHub Streak"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=IrvanWijayaSardam&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000" alt="SoupyzInc's GitHub Stats"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=IrvanWijayaSardam&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="AminiVan's GitHub Streak"></a>
 </p>
 
 <div align="center">
