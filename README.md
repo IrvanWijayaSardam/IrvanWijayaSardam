@@ -13,11 +13,7 @@
 
 <img src="https://github.com/IrvanWijayaSardam/IrvanWijayaSardam/blob/main/Images/GitHub%20Banner.png" alt="Irvan Wijaya | AminiVan">
 
-<div align="center">
-<!--START_SECTION:crypto-prices-->
-<pre><code>| BTC: $20034.3 ▼ -0.14% | LTC: $53.88 ▼ -0.09% | As of Wed, 31 Aug 22 23:24:22 +0000 | From the Kraken REST API. |</code></pre>
-<!--END_SECTION:crypto-prices-->
-</div>
+
   
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=IrvanWijayaSardam&count_private=true&show_icons=true&theme=dark&title_color=9aa0a6&text_coolor+9aa0a6&icon_color=CAD1D9&bg_color=00000000" alt="SoupyzInc's GitHub Stats"></a>
