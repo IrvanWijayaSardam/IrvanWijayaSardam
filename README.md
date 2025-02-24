@@ -23,7 +23,7 @@
   <pre><code>Sup , I'm Here</code></pre>
 </div>
 
-<p>I am a developer and crypto enthusiast, 2 years of experience in the programming field, here are some projects that I participate in</p>
+<p>I am a developer and crypto enthusiast, 4 years of experience in the programming field, here are some projects that I participate in</p>
 
 <h2>What am I working on? </h2>
 <details>
