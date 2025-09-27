@@ -23,18 +23,5 @@
   <pre><code>Sup , I'm Here</code></pre>
 </div>
 
-<p>I am a developer and crypto enthusiast, 4 years of experience in the programming field, here are some projects that I participate in</p>
-
-<h2>What am I working on? </h2>
-<details>
-<summary><a href="https://stride.explorers.guru/validator/stridevaloper1yepfmsp6ylmmk0zy0knlqaev9t0anaw483trmj">Stride Network</a> | CLI, Nodes,Running Validator, Create Transaction,etc</summary>
-</details>
-
-<h2>Other Project 🎉</h2>
-<details>
-<summary><a href="https://sei.explorers.guru/validator/seivaloper1a5qwd5pgut22y8qq0nw6cnu4y04gqkdzzukfuf">Sei Network</a> | CLI,Nodes,Running Validator, Make Explorer</summary>
-</details>
-<details>
-<summary><a href="http://e.trxlfsnxl.xyz/point/staking/evmosvaloper1yavqyhqp8srpqz3sfrcxszundksl2et6cj2s7d">PointNetwork</a> | WEB3, Blockchain</summary>
-</details>
+<p>I am a developer and android reverse engineer wannabe, 4 years of experience in the programming field</p>
 
