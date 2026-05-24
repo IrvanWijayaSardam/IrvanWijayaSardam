@@ -11,10 +11,6 @@
     - Matthew Okashita | SoupyzInc (https://github.com/SoupyzInc)
 -->
 
-<img src="https://github.com/IrvanWijayaSardam/IrvanWijayaSardam/blob/main/Images/GitHub%20Banner.png" alt="Irvan Wijaya | AminiVan">
-
-
-  
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=IrvanWijayaSardam&background=00000000&stroke=9AA0A6&currStreakNum=9AA0A6&fire=DD2727&ring=DD2727&sideNums=9AA0A6&sideLabels=9AA0A6&currStreakLabel=DD2727&border=9AA0A6&dates=9AA0A6" alt="AminiVan's GitHub Streak"></a>
 </p>
@@ -23,5 +19,5 @@
   <pre><code>Sup , I'm Here</code></pre>
 </div>
 
-<p>I am a developer and android reverse engineer wannabe, 4 years of experience in the programming field</p>
+<p>I'm a Technical Support Engineer. Supporting the engineer to fix the issues :) </p>
 
