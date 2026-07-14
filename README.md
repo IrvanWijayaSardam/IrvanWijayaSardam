@@ -19,5 +19,5 @@
   <pre><code>Sup , I'm Here</code></pre>
 </div>
 
-<p>I'm a Technical Support Engineer. Supporting the engineer to fix the issues :) </p>
+<p>Supporting & Cheering up the engineer to fix the issues :) </p>
 
